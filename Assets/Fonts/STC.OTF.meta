@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 615a252c44c8f1c45a1720e71d408484
+timeCreated: 1492209791
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GE SS
+  fontNames:
+  - GE SS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
