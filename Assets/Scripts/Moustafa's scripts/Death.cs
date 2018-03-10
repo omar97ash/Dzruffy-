@@ -68,7 +68,6 @@ public class Death : MonoBehaviour {
 	}
 
 
-	//Bugged
 	public void Restart(){
 		PH.CurrentHealth = 1;
 		GameObject.FindGameObjectsWithTag ("Pause")[1].GetComponent<PauseMenu> ().enabled = true;
