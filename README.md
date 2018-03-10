@@ -7,5 +7,5 @@ This is an ongoing, unfinished project with messy code and structure.
 Creators and Contributors:
 Omar Ahmed (Pandird),
 Moustafa Hashem (N-MHash),
-Omar Ashraf,
+Omar Ashraf (omar97ash),
 Hazem Essam
